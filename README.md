@@ -31,5 +31,5 @@ Here are some ideas to get you started:
  <img align="center" alt="Ericles-Tec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />         
  <img align="center" alt="Ericles-Tec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />         
  <img align="center" alt="Ericles-Tec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-
+ <img align="right" alt="Ericles-pic" height="150" style="border-radius:50px;" src="https://gfycat.com/gifs/search/brent+rambo+gif
  
